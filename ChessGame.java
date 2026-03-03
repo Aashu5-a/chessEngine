@@ -417,5 +417,6 @@ public class ChessGame {
 
             whiteTurn = opponent;
         }
+        sc.close();
     }
 }
