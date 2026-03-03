@@ -1,2 +1,2 @@
-# chessEngine
-A fully functional console-based Chess Engine in Java implementing all standard chess rules using OOP principles.
+This project is a fully functional console-based Chess Engine developed in Java.
+It implements standard chess rules and demonstrates strong Object-Oriented Programming (OOP) concepts.
